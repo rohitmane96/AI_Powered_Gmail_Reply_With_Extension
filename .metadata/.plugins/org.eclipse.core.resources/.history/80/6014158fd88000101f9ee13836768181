@@ -1,0 +1,5 @@
+package com.emailwriter.controller;
+
+public class EmailController {
+
+}

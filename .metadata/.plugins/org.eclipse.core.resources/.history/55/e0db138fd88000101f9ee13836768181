@@ -1,0 +1,5 @@
+package com.emailwriter.Entity;
+
+public class EmailRequest {
+
+}
